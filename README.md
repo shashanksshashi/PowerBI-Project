@@ -11,6 +11,10 @@ Wisabi Bank wants to answer several business problem questions related to its AT
    8. What is the distribution of transaction amounts and transaction frequency, and are there any outliers?
    9. Which ATM locations have the highest and lowest utilization rates, and what factors contribute to this utilization rate?
   10. What is the average transaction time by location, transaction type, and time of day, and how does it vary by customer type and occupation?
-The data analytics project will involve analyzing the ATM transactions data, which includes the Transactions fact table, Location dimension table, Customers Dimension table, Transaction Type Dimension Table, Hour dimension table, and Calendar dimension. The analysis will involve data cleaning, data transformation, and data visualization using Excel/Power BI.
+
+      
+The data analytics project will involve analyzing the ATM transactions data, which includes the Transactions fact table, Location dimension table, Customers, Dimension table, Transaction Type Dimension Table, Hour dimension table, and Calendar dimension. The analysis will involve data cleaning, data transformation, and data visualization using Excel/Power BI.
+
+
 PROJECT OUTCOMES:
 The expected deliverables from the data analytics project are a set of reports and dashboards that provide insights and answers to the business problem questions. The reports and dashboards should be interactive and user-friendly and should enable the Wisabi Bank team to make data-driven decisions that improve customer experience and optimize operations.
